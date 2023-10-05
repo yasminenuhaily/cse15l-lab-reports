@@ -8,4 +8,4 @@
 **ls**
 1. ![Image](lsNoArgs.png) The working directory when the command was run was the home directory. The output of the command was lecture1 in bold blue. This is the output because the directories and/or files located within the home directory are lecture1. There is no error.
 2. ![Image](lsToDirectory.png) The working directory when the command was run was the lecture1 directory. The output of this command was the files and directories within the lecture1 directory, the Hello.class, Hello.java, messages , and README. There is no error.
-3. ![Image](lsToFile.png) The working directory when the command was run was the home directory. The output of the command was nothing because we were already located within the file. There is no error.
+3. ![Image](lsToFIle.png) The working directory when the command was run was the home directory. The output of the command was nothing because we were already located within the file. There is no error.
