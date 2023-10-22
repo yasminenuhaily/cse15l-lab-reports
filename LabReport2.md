@@ -15,9 +15,9 @@ The method called in the '/add-message?s=' is the 'public String handleRequest(U
 
 **Part 2** <br>
 
-The path to the private key for my SSH key from my home device. <br>
+The path to the private key for my SSH key from my home device: <br>
 ![Image](privKey.png) <br>
-The path to the public key for my SSH key from my ieng6 account. <br>
+The path to the public key for my SSH key from my ieng6 account: <br>
 ![Image](pubKey.png) <br>
 
 Terminal action logging in without being asked for a password: ![Image](loginNoPass.png) <br>
