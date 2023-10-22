@@ -18,11 +18,8 @@ The path to the private key for my SSH key  ![Image](privKey.png) <br>
 The path to the public key for my SSH key ![Image](pubKey.png) <br>
 
 Terminal action logging in without being asked for a password: ![Image](loginNoPass.png) <br>
+- Note: Though I can log in without a need for password, I have come across an issue in which it is printing out a bunch of "quota: cannot resolve ... errors." <br>
 
 **Part 3** <br>
 
-<p> Prior to labs week 2 and 3, I was unaware of how to connect to a remote server. I was absent during week 2 during sickness, but through reviewing the lab tasks and lectures, I learned about how to access and start up a server, how to add queries, code a "simple search engine," etc. Week 3 reinforced these learnings, especially with practice in using bash ssh to connect to my cse15l account, and the different commands used from the account as an access point (mkdir, scp). Adding to the code of the server URI taught me a lot too, like with the /add, /increment, and the meaning behind the ?q= being the specific query. </p>
-
-
-
-
+<p> Prior to labs week 2 and 3, I was unaware of how to connect to a remote server. I was absent during week 2 during sickness, but through reviewing the lab tasks and lectures, I learned about how to access and start up a server remotely through my cse15l account, how to add queries, and search for them, and to code a "simple search engine." Week 3 reinforced these learnings, especially with practice in using bash ssh to connect to my cse15l account, and the different commands used from the account as an access point (mkdir, scp). Adding to the code of the server URI taught me a lot too, like with the /add, /increment, and the meaning behind the '?q=' representing a query. </p>
