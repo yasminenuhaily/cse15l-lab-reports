@@ -2,7 +2,7 @@
 
 **Part 1** <br>
 
-StringServer.java code!
+StringServer.java code! <br>
 ![Image](StringServerCode.png)
 
 1. Screenshot #1 <br>
