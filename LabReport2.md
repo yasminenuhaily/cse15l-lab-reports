@@ -15,8 +15,8 @@ The method called in the '/add-message?s=' is the 'public String handleRequest(U
 
 **Part 2** <br>
 
-The path to the private key for my SSH key  ![Image](privKey.png) <br>
-The path to the public key for my SSH key ![Image](pubKey.png) <br>
+The path to the private key for my SSH key from my home device  ![Image](privKey.png) <br>
+The path to the public key for my SSH key from my ieng6 account ![Image](pubKey.png) <br>
 
 Terminal action logging in without being asked for a password: ![Image](loginNoPass.png) <br>
 - Note: Though I can log in without a need for password, I have come across an issue in which it is printing out a bunch of "quota: cannot resolve ... errors." <br>
