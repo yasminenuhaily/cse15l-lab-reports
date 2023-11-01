@@ -18,7 +18,6 @@ The path to the public key for my SSH key from my ieng6 account: <br>
 ![Image](pubKey.png) <br>
 
 Terminal action logging in without being asked for a password: ![Image](loginNoPass.png) <br>
-- Note: Though I can log in without a need for password, I have come across an issue in which it is printing out a bunch of "quota: cannot resolve ... errors." <br>
 
 **Part 3** <br>
 
