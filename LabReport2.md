@@ -17,7 +17,7 @@ The path to the private key for my SSH key from my home device: <br>
 The path to the public key for my SSH key from my ieng6 account: <br>
 ![Image](pubKey.png) <br>
 
-Terminal action of logging in without being asked for a password: ![Image](loginNoPass.png) <br>
+Terminal action of logging in without being asked for a password:  <br>
 
 **Part 3** <br>
 
