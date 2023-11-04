@@ -1,7 +1,7 @@
 ## Lab Report 3
 
 ** Part 1- Bugs ** <br>
-Chosen bug: 'reverseInPlace' method. <br>
+Chosen bug: `reverseInPlace` method. <br>
 - A failure-inducing input for the buggy program: <br>
  ` @Test
    public void testReverseInPlace1()
@@ -35,3 +35,4 @@ Chosen bug: 'reverseInPlace' method. <br>
       arr[arr.length-i-1] = temp;
     }
   } `
+These fixes address the issue of the code by directly fixing the bugs. The original error in this code was that it did not store the value of `arr[i]` before modifying it, thus resulting in duplicate values of what was originally stored within `arr[arr.length-1-i]` , which is remedied with the assigning of a temp variable. Additionally, the code looped through the entirety of the array, causing it to, if the temp variable were now there, reverse the array back to its original order, hence the fix of only looping through `arr.length/2` .
