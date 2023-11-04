@@ -1,6 +1,6 @@
 ## Lab Report 3
 
-** Part 1- Bugs ** <br>
+**Part 1- Bugs** <br>
 Chosen bug: `reverseInPlace` method. <br>
 - A failure-inducing input for the buggy program: <br>
  ` @Test
