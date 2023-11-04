@@ -19,4 +19,19 @@ Chosen bug: 'reverseInPlace' method. <br>
       assertArrayEquals(new int[]{1},input1);
     } `
   - Symptom on JUNIT of the tests: <br>
-    ![Image](junit_symptom.png)
+    ![Image](junit_symptom.png) <br>
+
+  - Buggy Code Before:
+    ` static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }`
+  - Code After:
+   `static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length/2; i += 1) {
+      int temp = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length-i-1] = temp;
+    }
+  } `
