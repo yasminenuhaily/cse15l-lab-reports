@@ -35,4 +35,11 @@ Chosen bug: `reverseInPlace` method. <br>
       arr[arr.length-i-1] = temp;
     }
   } ` <br>
- <p> These fixes address the issue of the code by directly fixing the bugs. The original error in this code was that it did not store the value of `arr[i]` before modifying it, thus resulting in duplicate values of what was originally stored within `arr[arr.length-1-i]` , which is remedied with the assigning of a temp variable. Additionally, the code looped through the entirety of the array, causing it to, if the temp variable were now there, reverse the array back to its original order, hence the fix of only looping through `arr.length/2` . </p>
+ <p> These fixes address the issue of the code by directly fixing the bugs. The original error in this code was that it did not store the value of `arr[i]` before modifying it, thus resulting in duplicate values of what was originally stored within `arr[arr.length-1-i]` , which is remedied with the assigning of a temp variable. Additionally, the code looped through the entirety of the array, causing it to, if the temp variable were now there, reverse the array back to its original order, hence the fix of only looping through `arr.length/2` . </p> <br>
+
+**Part 2- Researching grep**
+grep command:
+grep -a : (treat all files as ASCII test)
+grep -i : (ignores case!)
+grep -e pattern: specifies a pattern used during search, 
+grep -F : interpret pattern as a set of fixed strings. (as fgrep).
