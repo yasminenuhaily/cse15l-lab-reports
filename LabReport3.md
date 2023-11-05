@@ -45,7 +45,7 @@ Chosen bug: `reverseInPlace` method. <br>
 
 **Part 2- Researching grep**
 grep command:
-grep -c Found with terminal input man grep <br>
+grep -c Found with terminal input `man grep` <br>
 Example 1- <br>
 ```
 MacBook-Air-2:911report yasminenuhaily$ grep -c "as" chapter-2.txt
@@ -56,7 +56,7 @@ Example 2- <br>
 MacBook-Air-2:911report yasminenuhaily$ grep -c "hi" chapter-3.txt
 592
 ```
-grep -i : Found with terminal input man grep <br>
+grep -i : Found with terminal input `man grep` <br>
 Example 1-  <br>
 ```
 MacBook-Air-2:docsearch yasminenuhaily$ grep -i "litigation" technical/government/About_LSC/LegalServCorp_v_VelazquezDissent.txt
@@ -89,7 +89,7 @@ Example 2- <br>
 MacBook-Air-2:docsearch yasminenuhaily$ grep -i "hello" technical/911report/chapter-1.txt
     At 10:39, the Vice President updated the Secretary on the air threat conference: Vice President: There's been at least three instances here where we've had reports of aircraft approaching Washington-a couple were confirmed hijack. And, pursuant to the President's instructions I gave authorization for them to be taken out. Hello?
 ```
-grep -e pattern: found with terminal input man grep <br> 
+grep -e pattern: found with terminal input `man grep` <br> 
 Example 1- <br>
 ```
 MacBook-Air-2:911report yasminenuhaily$ grep -e "file" chapter-10.txt
@@ -103,7 +103,7 @@ MacBook-Air-2:911report yasminenuhaily$ grep -e "presidential" chapter-13.1.txt
                 regarding the nomination of these directors, who are presidentially appointed. But
                 Only presidential leadership can develop government-wide concepts and
 ```
-grep -F : found with terminal input man grep <br>
+grep -F : found with terminal input `man grep` <br>
 Example 1- <br>
 ```
 MacBook-Air-2:911report yasminenuhaily$ grep -F "foreign government" chapter-13.3.txt
