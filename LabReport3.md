@@ -56,7 +56,7 @@ Example 2- <br>
 MacBook-Air-2:911report yasminenuhaily$ grep -c "hi" chapter-3.txt
 592
 ```
-` grep -i `: Found with terminal input `man grep` <br>
+` grep -i ` : Found with terminal input `man grep` <br>
 Example 1-  <br>
 ```
 MacBook-Air-2:docsearch yasminenuhaily$ grep -i "litigation" technical/government/About_LSC/LegalServCorp_v_VelazquezDissent.txt
