@@ -44,7 +44,7 @@ Chosen bug: `reverseInPlace` method. <br>
  <p> These fixes address the issue of the code by directly fixing the bugs. The original error in this code was that it did not store the value of `arr[i]` before modifying it, thus resulting in duplicate values of what was originally stored within `arr[arr.length-1-i]` , which is remedied with the assigning of a temp variable. Additionally, the code looped through the entirety of the array, causing it to, if the temp variable were now there, reverse the array back to its original order, hence the fix of only looping through `arr.length/2` . </p> <br>
 
 **Part 2- Researching grep**
-grep command:
+grep command: <br>
 `grep -c `: Found with terminal input `man grep` <br>
 Example 1- <br>
 ```
@@ -55,8 +55,8 @@ Example 2- <br>
 ```
 MacBook-Air-2:911report yasminenuhaily$ grep -c "hi" chapter-3.txt
 592
-```
-` grep -i ` : Found with terminal input `man grep` <br>
+``` 
+`grep -i ` : Found with terminal input `man grep` <br>
 Example 1-  <br>
 ```
 MacBook-Air-2:docsearch yasminenuhaily$ grep -i "litigation" technical/government/About_LSC/LegalServCorp_v_VelazquezDissent.txt
@@ -89,7 +89,7 @@ Example 2- <br>
 MacBook-Air-2:docsearch yasminenuhaily$ grep -i "hello" technical/911report/chapter-1.txt
     At 10:39, the Vice President updated the Secretary on the air threat conference: Vice President: There's been at least three instances here where we've had reports of aircraft approaching Washington-a couple were confirmed hijack. And, pursuant to the President's instructions I gave authorization for them to be taken out. Hello?
 ```
-` grep -e `: Found with terminal input `man grep` <br> 
+` grep -e ` : Found with terminal input `man grep` <br> 
 Example 1- <br>
 ```
 MacBook-Air-2:911report yasminenuhaily$ grep -e "file" chapter-10.txt
