@@ -89,7 +89,7 @@ Example 2- <br>
 MacBook-Air-2:docsearch yasminenuhaily$ grep -i "hello" technical/911report/chapter-1.txt
     At 10:39, the Vice President updated the Secretary on the air threat conference: Vice President: There's been at least three instances here where we've had reports of aircraft approaching Washington-a couple were confirmed hijack. And, pursuant to the President's instructions I gave authorization for them to be taken out. Hello?
 ```
-` grep -e ` : Found with terminal input `man grep` <br> 
+`grep -e` : Found with terminal input `man grep` <br> 
 Example 1- <br>
 ```
 MacBook-Air-2:911report yasminenuhaily$ grep -e "file" chapter-10.txt
