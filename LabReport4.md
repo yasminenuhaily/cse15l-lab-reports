@@ -14,7 +14,7 @@ Keys pressed: `ctrl+v <enter` in order to run `java -cp .:lib/hamcrest-core-1.3.
 
 **Step 7** <br>
 ![Image](step7.png) <br> 
-Keys pressed:  `<down><down><down><down><down><right><right>` commands in order to move down through the code in order to get to the error of `index1` instead of `index2`, then, `<esc> x` in order to verify first that `vim` was in normal mode, and then the `x` to delete the character which my cursor was hovered over. <left> to get to the space right before I wanted to insert, and `2` to fix the code to become `index2` from the error that was prior `index1`. Next, <esc> to return to the normal `vim` mode, and `:wq` to save exit `vim`. Finally, `git add . ` to ensure all the changes would be taken into account, and `git commit -m "fixed"` to commit my changes to the main branch.
+Keys pressed:  `<down><down><down><down><down><right><right>` commands in order to move down through the code in order to get to the error of `index1` instead of `index2`, then, `<esc>x` in order to first verify that `vim` was in normal mode, and then the `x` to delete the character which my cursor was hovered over. <left> to get to the space right before I wanted to insert, and `2` to fix the code to become `index2` from the error that was prior `index1`. Next, <esc> to return to the normal `vim` mode, and `:wq` to save exit `vim`. Finally, `git add . ` to ensure all the changes would be taken into account, and `git commit -m "fixed"` to commit my changes to the main branch.
 
 **Step 8** <br>
 ![Image](step8.png) <br> 
