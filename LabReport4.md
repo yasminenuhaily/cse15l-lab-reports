@@ -22,7 +22,7 @@ Keys pressed:  `<down><down><down><down><down><right><right>` commands in order 
 **Step 8**
 ![Image](step8.png) <br> 
 
-Keys pressed: `<up><up><up><up><enter>` The `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` command was 4 up in the search history, so I used the up arrow inorder to access it and run the tests.
+Keys pressed: `<up><up><up><up><enter>` The `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` command was 4 up in the search history, so I used the up arrow in order to access it and run the tests to show they work successfully.
 
 **Step 9**
 ![Image](step9.png) <br>
