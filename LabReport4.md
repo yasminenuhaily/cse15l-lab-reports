@@ -1,4 +1,4 @@
-## Lab Report 4
+## Lab Report 4 <br>
 
 4. ![Image](step4.png) <br> Keys pressed: `ssh cse15lfa23sf@ieng6.ucsd.edu ` in order to log in to my ieng6 account.
 5. ![Image](step5.png) <br> Keys pressed: `git clone git@github.com:yasminenuhaily/lab7.git` to clone the forked respository with the SSH URL.
