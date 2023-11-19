@@ -27,4 +27,4 @@ Keys pressed: `<up><up><up><up><enter>` The `java -cp .:lib/hamcrest-core-1.3.ja
 **Step 9**
 ![Image](step9.png) <br>
 
-Keys pressed: `git add .` to stage the changes to be commit, in this case all of them, then `git commit -m "fixed"` to commit the changes with the message "fixed". Finally, `git push` to push all of the changes into the repository.
+Keys pressed: `git add .` to stage the all the changes to be commit, then `git commit -m "fixed"` to commit the changes with the message "fixed". Finally, `git push` to push all of the changes into the repository.
