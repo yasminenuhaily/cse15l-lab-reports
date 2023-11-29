@@ -3,7 +3,7 @@
 **Step 4**
 ![Image](step4.png) <br> 
 
-Keys pressed: `ssh cse15lfa23sf@ieng6.ucsd.edu ` in order to log in to my ieng6 account.
+Keys pressed: `ssh cs15lfa23sf@ieng6.ucsd.edu ` in order to log in to my ieng6 account.
 
 **Step 5**
 ![Image](step5.png) <br> 
