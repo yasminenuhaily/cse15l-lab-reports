@@ -17,8 +17,9 @@ Keys pressed: `ctrl+v <enter` in order to run `java -cp .:lib/hamcrest-core-1.3.
 
 **Step 7**
 ![Image](step7.png) <br> 
-Keys pressed:  `<down><down><down><down><down><right><right>` commands in order to move down through the code in order to get to the error of `index1` instead of `index2`, then, `<esc>x` in order to first verify that `vim` was in normal mode, and then the `x` to delete the character which my cursor was hovered over. `<left>` to get to the space right before I wanted to insert, and `2` to fix the code to become `index2` from the error that was prior `index1`. Next, `<esc>:wq` to return to the normal `vim` mode, and the `:wq` to save exit `vim`.
-
+Keys pressed:  `<down><down><down><down><down><right><right>` commands in order to move down through the code in order to get to the error of `index1` instead of `index2`, then, `<esc>x` in order to first verify that `vim` was in normal mode, and then the `x` to delete the character which my cursor was hovered over. `<left>` to get to the space right before I wanted to insert, and `2` to fix the code to become `index2` from the error that was prior `index1`. Next, `<esc>:wq` to return to the normal `vim` mode, and the `:wq` to save exit `vim`. <br>
+Fixed code: <br>
+![Image](fixedCode.png) <br>
 **Step 8**
 ![Image](step8.png) <br> 
 
