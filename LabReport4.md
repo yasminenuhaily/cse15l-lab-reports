@@ -13,7 +13,7 @@ Keys pressed: `git clone ctrl+v <enter>` to clone the forked respository with th
 **Step 6**
 ![Image](step6.png) <br> 
 
-Keys pressed: `ctrl+v <enter` in order to run `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` as I had copied the path to run JUnit from `test.sh` to run the tests to show that they would fail.
+Keys pressed: `javac ListExamples.java` to compile the code, then `ctrl+v <enter` in order to run `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` as I had copied the path to run JUnit from `test.sh` to run the tests to show that they would fail.
 
 **Step 7**
 ![Image](step7.png) <br> 
@@ -23,7 +23,7 @@ Fixed code: <br>
 **Step 8**
 ![Image](step8.png) <br> 
 
-Keys pressed: `<up><up><up><up><enter>` The `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` command was 4 up in the search history, so I used the up arrow in order to access it and run the tests to show they work successfully.
+Keys pressed: `<up><up><up><up><up><enter>` because the `javac ListExamples.java` was 5 up in the search history. Then, `<up><up><up><up><enter>` because the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` command was 4 up in the search history, so I used the up arrow in order to access it and run the tests to show they work successfully.
 
 **Step 9**
 ![Image](step9.png) <br>
