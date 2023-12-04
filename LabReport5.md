@@ -1,8 +1,7 @@
 ## Lab Report 5 <br>
 
 **Part 1** <br>
-1. *Anonymous Student:*
-<br>
+1. *Anonymous Student:* <br>
 Hello, I am having an issue I can't quite figure out in the lab 3 code with my `testAverageWithoutLowest()` test. My other tests all work for `ArrayExamples.java` I think it has to be with how I wrote the `averageWithoutLowestMethod()` but I can't find the error!
 <br>
 Here is my code to ArrayTests.java that and the output in the terminal with error. <br>
@@ -14,8 +13,7 @@ And here is my code to ArrayExamples.java
 
 Thank you in advance! <br>
 
-2. *TA Response*
-<br>
+2. *TA Response* <br>
 Hello, It seems your error is in fact in your averageWithoutLowest() method! Try out different inputs of arrays and see what output you get. For example, if you make all but the input the same value, what output is returned? If you make the numbers farther apart, what output do you get? Additionally, what are you dividing by to get the average? I hope this helps. Let me know if you have any further questions.
 
 3. Terminal Output from what was told to test: <br>
