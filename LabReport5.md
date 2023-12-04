@@ -9,7 +9,7 @@ Here is my code to ArrayTests.java that and the output in the terminal with erro
 ![Image](errorArrayTests.png) <br>
 
 And here is my code to ArrayExamples.java
-![Image](errorArrayTests.png) <br>
+![Image](arrayExamplesError.png) <br>
 
 Thank you in advance! <br>
 
