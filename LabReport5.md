@@ -22,5 +22,5 @@ The bug from the code was that the code was setting `num = lowest`, as opposed t
 
 4. The information needed for the setup was just the `ArrayExamples.java` file and the `ArrayTests.java` file in order to properly compile and run the code, and also to look for the errors. The lines ran to trigger the bug were just the output of what the average should be versus what the actual output was. To edit and fix the bug, setting line 31 in `ArrayExamples.java` to be `lowest = num` and line 37 to be return `sum / (arr.length - 2);`
 
-**Part 2**
+**Part 2** <br>
 For my lab experience throughout this quarter, I learned how to efficiently use the command line and even how to edit, add, commit, and push to git all from the command line. In particular, I enjoyed learning about the usage of Vim, as it made it so all the work can be done in one place. I think I definitely gained a lot from experience being physically in the labs, even though I had to miss quite a few due to sickness. The tutors were all very helpful and answered any and all the questions that I had, especially Justin! Big thank you to him for helping with all my little errors, including when the only error was being connected to the wrong WiFi!
