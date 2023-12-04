@@ -3,7 +3,6 @@
 **Part 1** <br>
 1. *Anonymous Student:* <br>
 Hello, I am having an issue I can't quite figure out in the lab 3 code with my `testAverageWithoutLowest()` test. My other tests all work for `ArrayExamples.java` I think it has to be with how I wrote the `averageWithoutLowestMethod()` but I can't find the error!
-<br>
 Here is my code to ArrayTests.java that and the output in the terminal with error. <br>
 
 ![Image](errorArrayTests.png) <br>
